@@ -97,7 +97,7 @@ The PHP test script was also created to know if PHP is installed and configured 
 This opened a blank file where `<?php
 phpinfo();` was pasted. The file was saved.
 
-![php_test](./images/php_test.jpeg)
+![php_test](./Images/php_test.jpeg)
 
 
 File was removed using the command `sudo rm /var/www/ayodotun/index.php`
