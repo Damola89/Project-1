@@ -101,4 +101,4 @@ phpinfo();` was pasted. The file was saved.
 
 
 File was removed using the command `sudo rm /var/www/ayodotun/index.php`
-![file.removed](./images/file_removed.PNG)
+![file.removed](./images/file_removed.jpeg)
